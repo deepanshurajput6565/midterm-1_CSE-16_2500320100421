@@ -1,0 +1,24 @@
+{
+  "name": "midterm-1_cse16_2500320100421",
+  "version": "1.0.0",
+  "description": "A minimal Node.js HTTP server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepanshurajput6565/midterm-1_CSE-16_2500320100421.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/deepanshurajput6565/midterm-1_CSE-16_2500320100421/issues"
+  },
+  "homepage": "https://github.com/deepanshurajput6565/midterm-1_CSE-16_2500320100421#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
